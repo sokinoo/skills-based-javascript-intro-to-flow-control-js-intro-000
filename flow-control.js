@@ -4,7 +4,7 @@ console.log("You are a teenager");
 }
 {
   else if
-  console.log("You are not a teenager")
+  console.log("You are not a teenager");
 }
 function teenager(age) {
 
