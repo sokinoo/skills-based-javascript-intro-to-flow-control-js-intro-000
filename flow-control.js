@@ -1,4 +1,4 @@
-function basicTeenager(age) 
+function basicTeenager(age)
 IF (basicTeenager age){
 13>19 true Then "You are a teenager"
 }
