@@ -1,8 +1,8 @@
-function basicTeenager(age){ 
+function basicTeenager(age){
   var true = "You are a teenager! "
   var false = "You are not a teenager. "
-If (<= 13 && >=19) = true 
-else false 
+If (<= 13 && >=19) = true
+else false
 }
 function teenager(age) {
 
